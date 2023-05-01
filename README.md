@@ -1,3 +1,9 @@
 # 计算机组成思维导图(2023.4)
 
-![Image text](./1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0.png)
+# 1.第一章概述
+
+![Image text](/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%AC%AC%E4%B8%80%E7%AB%A0%E6%A6%82%E8%BF%B0.png)
+
+# 2.第二章数据的表示和运算
+
+![Image text](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E7%AC%AC%E4%BA%8C%E7%AB%A0%E6%95%B0%E6%8D%AE%E7%9A%84%E8%A1%A8%E7%A4%BA%E5%92%8C%E8%BF%90%E7%AE%97.png)
