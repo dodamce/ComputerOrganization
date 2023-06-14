@@ -19,3 +19,7 @@
 # 5.第五章 CPU 与流水线
 
 ![Image text](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E7%AC%AC%E4%BA%94%E7%AB%A0CPU%E4%B8%8E%E6%B5%81%E6%B0%B4%E7%BA%BF.png)
+
+# 6. 第六章 总线
+
+![image text](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E7%AC%AC%E5%85%AD%E7%AB%A0%E6%80%BB%E7%BA%BF.png)
